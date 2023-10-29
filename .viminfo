@@ -12,11 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1698540475,,"wq!"
+|2,0,1698548393,,"wq!"
+:q!
+|2,0,1698542450,,"q!"
 :wq1
 |2,0,1698321456,,"wq1"
-:q!
-|2,0,1698320713,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -29,36 +29,60 @@
 # Registers:
 
 # File marks:
-'0  2  18  ~/ansible.yml
-|4,48,2,18,1698540475,"~/ansible.yml"
-'1  4  12  ~/ansibleAssThree.yml
-|4,49,4,12,1698503077,"~/ansibleAssThree.yml"
-'2  1  2  ~/ansibleAssignmentOne.yml
-|4,50,1,2,1698503065,"~/ansibleAssignmentOne.yml"
-'3  1  2  ~/ansibleAssignmentOne.yml
-|4,51,1,2,1698503053,"~/ansibleAssignmentOne.yml"
-'4  4  12  ~/ansibleAssThree.yml
-|4,52,4,12,1698502927,"~/ansibleAssThree.yml"
+'0  2  26  ~/ansible.yml
+|4,48,2,26,1698548393,"~/ansible.yml"
+'1  1  2  ~/ansibleAssignmentOne.yml
+|4,49,1,2,1698542450,"~/ansibleAssignmentOne.yml"
+'2  2  18  ~/ansible.yml
+|4,50,2,18,1698540475,"~/ansible.yml"
+'3  4  12  ~/ansibleAssThree.yml
+|4,51,4,12,1698503077,"~/ansibleAssThree.yml"
+'4  1  2  ~/ansibleAssignmentOne.yml
+|4,52,1,2,1698503065,"~/ansibleAssignmentOne.yml"
 '5  1  2  ~/ansibleAssignmentOne.yml
-|4,53,1,2,1698502746,"~/ansibleAssignmentOne.yml"
+|4,53,1,2,1698503053,"~/ansibleAssignmentOne.yml"
 '6  1  2  ~/ansibleAssignmentOne.yml
-|4,54,1,2,1698502746,"~/ansibleAssignmentOne.yml"
-'7  4  12  ~/ansible.yml
-|4,55,4,12,1698502292,"~/ansible.yml"
-'8  4  12  ~/ansible.yml
-|4,56,4,12,1698502292,"~/ansible.yml"
-'9  5  56  /etc/ansible/hosts
-|4,57,5,56,1698502124,"/etc/ansible/hosts"
+|4,54,1,2,1698503053,"~/ansibleAssignmentOne.yml"
+'7  4  12  ~/ansibleAssThree.yml
+|4,55,4,12,1698502927,"~/ansibleAssThree.yml"
+'8  1  2  ~/ansibleAssignmentOne.yml
+|4,56,1,2,1698502746,"~/ansibleAssignmentOne.yml"
+'9  1  2  ~/ansibleAssignmentOne.yml
+|4,57,1,2,1698502746,"~/ansibleAssignmentOne.yml"
 
 # Jumplist (newest first):
+-'  2  26  ~/ansible.yml
+|4,39,2,26,1698548393,"~/ansible.yml"
+-'  1  2  ~/ansibleAssignmentOne.yml
+|4,39,1,2,1698542450,"~/ansibleAssignmentOne.yml"
+-'  1  2  ~/ansibleAssignmentOne.yml
+|4,39,1,2,1698542450,"~/ansibleAssignmentOne.yml"
 -'  2  18  ~/ansible.yml
 |4,39,2,18,1698540475,"~/ansible.yml"
+-'  2  18  ~/ansible.yml
+|4,39,2,18,1698540475,"~/ansible.yml"
+-'  4  12  ~/ansible.yml
+|4,39,4,12,1698540455,"~/ansible.yml"
+-'  4  12  ~/ansible.yml
+|4,39,4,12,1698540455,"~/ansible.yml"
 -'  4  12  ~/ansible.yml
 |4,39,4,12,1698540455,"~/ansible.yml"
 -'  4  12  ~/ansibleAssThree.yml
 |4,39,4,12,1698503077,"~/ansibleAssThree.yml"
 -'  4  12  ~/ansibleAssThree.yml
 |4,39,4,12,1698503077,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698503077,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698503077,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698503077,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698503077,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698503077,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698503077,"~/ansibleAssThree.yml"
 -'  1  2  ~/ansibleAssignmentOne.yml
 |4,39,1,2,1698503065,"~/ansibleAssignmentOne.yml"
 -'  1  2  ~/ansibleAssignmentOne.yml
@@ -67,6 +91,22 @@
 |4,39,1,2,1698503065,"~/ansibleAssignmentOne.yml"
 -'  1  2  ~/ansibleAssignmentOne.yml
 |4,39,1,2,1698503065,"~/ansibleAssignmentOne.yml"
+-'  1  2  ~/ansibleAssignmentOne.yml
+|4,39,1,2,1698503065,"~/ansibleAssignmentOne.yml"
+-'  1  2  ~/ansibleAssignmentOne.yml
+|4,39,1,2,1698503065,"~/ansibleAssignmentOne.yml"
+-'  1  2  ~/ansibleAssignmentOne.yml
+|4,39,1,2,1698503065,"~/ansibleAssignmentOne.yml"
+-'  1  2  ~/ansibleAssignmentOne.yml
+|4,39,1,2,1698503065,"~/ansibleAssignmentOne.yml"
+-'  1  2  ~/ansibleAssignmentOne.yml
+|4,39,1,2,1698503053,"~/ansibleAssignmentOne.yml"
+-'  1  2  ~/ansibleAssignmentOne.yml
+|4,39,1,2,1698503053,"~/ansibleAssignmentOne.yml"
+-'  1  2  ~/ansibleAssignmentOne.yml
+|4,39,1,2,1698503053,"~/ansibleAssignmentOne.yml"
+-'  1  2  ~/ansibleAssignmentOne.yml
+|4,39,1,2,1698503053,"~/ansibleAssignmentOne.yml"
 -'  1  2  ~/ansibleAssignmentOne.yml
 |4,39,1,2,1698503053,"~/ansibleAssignmentOne.yml"
 -'  1  2  ~/ansibleAssignmentOne.yml
@@ -91,6 +131,54 @@
 |4,39,4,12,1698502927,"~/ansibleAssThree.yml"
 -'  4  12  ~/ansibleAssThree.yml
 |4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
+-'  4  12  ~/ansibleAssThree.yml
+|4,39,4,12,1698502927,"~/ansibleAssThree.yml"
 -'  14  38  ~/ansibleAssThree.yml
 |4,39,14,38,1698502770,"~/ansibleAssThree.yml"
 -'  14  38  ~/ansibleAssThree.yml
@@ -111,154 +199,66 @@
 |4,39,14,38,1698502770,"~/ansibleAssThree.yml"
 -'  14  38  ~/ansibleAssThree.yml
 |4,39,14,38,1698502770,"~/ansibleAssThree.yml"
--'  1  2  ~/ansibleAssignmentOne.yml
-|4,39,1,2,1698502746,"~/ansibleAssignmentOne.yml"
--'  1  2  ~/ansibleAssignmentOne.yml
-|4,39,1,2,1698502746,"~/ansibleAssignmentOne.yml"
--'  1  2  ~/ansibleAssignmentOne.yml
-|4,39,1,2,1698502746,"~/ansibleAssignmentOne.yml"
--'  1  2  ~/ansibleAssignmentOne.yml
-|4,39,1,2,1698502746,"~/ansibleAssignmentOne.yml"
--'  1  2  ~/ansibleAssignmentOne.yml
-|4,39,1,2,1698502746,"~/ansibleAssignmentOne.yml"
--'  1  2  ~/ansibleAssignmentOne.yml
-|4,39,1,2,1698502746,"~/ansibleAssignmentOne.yml"
--'  1  2  ~/ansibleAssignmentOne.yml
-|4,39,1,2,1698502746,"~/ansibleAssignmentOne.yml"
--'  1  2  ~/ansibleAssignmentOne.yml
-|4,39,1,2,1698502746,"~/ansibleAssignmentOne.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  4  12  ~/ansible.yml
-|4,39,4,12,1698502292,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
--'  14  40  ~/ansible.yml
-|4,39,14,40,1698502230,"~/ansible.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
+-'  14  38  ~/ansibleAssThree.yml
+|4,39,14,38,1698502770,"~/ansibleAssThree.yml"
 
 # History of marks within files (newest to oldest):
 
 > ~/ansible.yml
-	*	1698540471	0
-	"	2	18
-	^	2	19
-	.	2	18
+	*	1698548388	0
+	"	2	26
+	^	2	27
+	.	2	27
 	+	2	20
 	+	5	8
 	+	9	23
@@ -267,7 +267,22 @@
 	+	13	21
 	+	14	40
 	+	4	12
-	+	2	18
+	+	2	27
+
+> ~/ansibleAssignmentOne.yml
+	*	1698542447	0
+	"	1	2
+	^	12	23
+	.	13	0
+	+	2	20
+	+	4	8
+	+	6	21
+	+	12	23
+	+	7	0
+	+	8	21
+	+	11	15
+	+	12	23
+	+	13	0
 
 > ~/ansibleAssThree.yml
 	*	1698503075	0
@@ -284,21 +299,6 @@
 	+	16	14
 	+	15	9
 	+	4	12
-
-> ~/ansibleAssignmentOne.yml
-	*	1698503063	0
-	"	1	2
-	^	12	23
-	.	13	0
-	+	2	20
-	+	4	8
-	+	6	21
-	+	12	23
-	+	7	0
-	+	8	21
-	+	11	15
-	+	12	23
-	+	13	0
 
 > /etc/ansible/hosts
 	*	1698502112	0

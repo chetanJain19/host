@@ -199,3 +199,30 @@ ansible-playbook ansible.yml
 vi ansible.yml 
 ansible-playbook ansible.yml 
 vi ansible.yml 
+ls
+git remote add origin https://github.com/chetanJain19/host.git
+git init
+git remote add origin https://github.com/chetanJain19/host.git
+git branch -M master
+git push -u origin master
+git branch -M main
+git push -u origin main
+git branch
+git init
+git checkout -b main
+ls
+vi ansible.yml 
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/chetanJain19/host.git
+git push -u origin main
+ls
+vi ansibleAssignmentOne.yml 
+cd /etc/ansible/roles/
+ls
+cd rolesDir/
+ls
+git --version
+ls -a
+git branch
+git checkout main 
