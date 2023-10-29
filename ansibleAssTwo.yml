@@ -1,0 +1,16 @@
+---
+- name: muliple_shellPlaybook
+  hosts: all
+  tasks:
+    - name: copy_file
+      copy:
+        src: /root/copyAnsible
+        dest: /root
+    - name: multiple_shell
+      shell: ls /root
+      register: target_ls
+      shell: cat /root/copyAnsible
+      register: target_cat
+    - debug:
+        var: target_ls_l.stdout_lines
+        var: target_cat.stdout_lines     

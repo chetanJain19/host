@@ -1,0 +1,12 @@
+---
+- name: ass1Passbook
+  hosts: all
+  tasks:
+    - name: multiple_package
+      apt:
+        name: "{{item}}"
+        state: latest
+      with_items:
+        - git
+        - maven
+        - default-jre  

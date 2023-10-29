@@ -1,0 +1,14 @@
+---
+- name: copyplaybook
+  hosts: all
+  become: yes  
+  tasks:
+    - name: copyfile
+      copy:
+        src: /root/copyAnsible
+        dest: /home/ubuntu 
+    - name: packging_module
+      apt:
+        name: git
+        state: latest
+      when: ansible_os_family == 'Debian'      

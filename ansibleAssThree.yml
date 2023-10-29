@@ -1,0 +1,16 @@
+---
+- name: script_AssPlaybook
+  hosts: all
+  become: yes
+  tasks:
+    - name: copying_script
+      copy:  
+        src: /root/basicScript.sh
+        dest: /root
+    - name: executeScript
+      shell: sh /root/basicScript.sh
+      register: target_Script
+    - debug:
+        var: target_Script.stdout_line
+      tags:
+        - debug      
